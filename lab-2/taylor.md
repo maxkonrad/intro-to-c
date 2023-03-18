@@ -1,0 +1,1 @@
+# This programme calculates sinus function value using Taylor expansion
