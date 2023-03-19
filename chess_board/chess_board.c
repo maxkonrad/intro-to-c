@@ -1,3 +1,4 @@
+//This program might need additional software to work in Linux terminal. It works fine in windows machines.
 #include <stdio.h>
 
 void chess_board(int n);
