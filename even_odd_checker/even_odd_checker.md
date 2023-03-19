@@ -1,1 +1,0 @@
-# Even-Odd Number Checker
