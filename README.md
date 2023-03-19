@@ -1,5 +1,5 @@
 # iyte-ee103
-C (programming language) programmes I wrote when I was learning C Programming Language.
+C (programming language) programmes I wrote when I was learning C Programming Language for the course EE103.
 
 EE103, IZTECH ELECTRONICS AND COMMUNICATION ENGINEERING/Introduction to Programming Course
 
