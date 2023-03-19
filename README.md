@@ -1,5 +1,5 @@
 # iyte-ee103
-C (programming language) programmes I wrote when I was learning C Programming Language for the course EE103.
+C (programming language) programmes I wrote when I was learning C Programming Language for the [course EE103 at IYTE](https://eee.iyte.edu.tr/wp-content/uploads/sites/88/2022/05/Ders-i%C3%A7erikleri-IngilizceECTS.pdf).
 
 EE103, IZTECH ELECTRONICS AND COMMUNICATION ENGINEERING/Introduction to Programming Course
 
