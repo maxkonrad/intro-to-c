@@ -41,7 +41,7 @@ These are the tasks covered in lectures.
 Most of the programming is self-learning. Do not be stubborn with yourself, use [Google](https://google.com) if you get stuck.
 
 
-**NOTE-1:** I couldn't find lab-7 (encryption and decryption) and lab-8 (pointers) in my computer. I will upload them if I can find.
+**NOTE-1:** I couldn't find intermediate-7 (encryption and decryption) and intermediate-8 (pointers) in my computer. I will upload them if I can find.
 
 **NOTE-2:** You might need to change the main function's return type to int with respect to your local environment needs. (gcc or clang versions) 
 
