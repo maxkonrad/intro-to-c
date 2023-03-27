@@ -19,8 +19,8 @@ When doing so, try to not use a header file/library that provides ready-made cod
 * Chess Board
   * Write a program that prints a chess board in terminal. Try to make it in a scale that is prompted by user.
 
-## Lab projects
-These are the projects covered in lab sections. These are my solutions.
+## Intermediate projects
+These are the tasks covered in lectures.
 
 1) A program that takes 3 exam scores from the user and prints values such as total score, mean value and letter grade (make sure that the mean value gives float output)
 2) Try to calculate the approximate value of the sine function using the Taylor series (a notation in mathematics) by taking input in radians without using math.h (if your machine is windows and you are using DEV C++, you will have naming problems for the sine function, you can use the name sinfu for this. If you love your computer, don't go further than 15 items in taylor series.)
