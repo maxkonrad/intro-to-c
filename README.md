@@ -1,12 +1,6 @@
 # iyte-ee103
 C (programming language) programmes I wrote when I was learning C Programming Language for the [course EE103 at IYTE](https://eee.iyte.edu.tr/wp-content/uploads/sites/88/2022/05/Ders-i%C3%A7erikleri-IngilizceECTS.pdf).
 
-EE103, IZTECH ELECTRONICS AND COMMUNICATION ENGINEERING/Introduction to Programming Course
-
-NOTE: I couldn't find lab-7 (encryption and decryption) and lab-8 (pointers) in my computer. I will upload them if I can find.
-
-NOTE-2: You might need to change the main function's return type to int with respect to your local environment needs. (gcc or clang versions)
-
 **IMPORTANT**
 First try to make these projects listed below on your own. This repo includes my solutions.
 When doing so, try to not use a header file/library that provides ready-made code other than <stdio.h>.
@@ -44,5 +38,10 @@ These are the projects covered in lab sections. These are my solutions.
 * Try to measure code quality using <time.h> function.
 
 **Important Again**
-Most of the programming is self-learning. Do not be stubborn to yourself, use [Google](https://google.com) if you get stuck. 
+Most of the programming is self-learning. Do not be stubborn to yourself, use [Google](https://google.com) if you get stuck.
+
+
+NOTE: I couldn't find lab-7 (encryption and decryption) and lab-8 (pointers) in my computer. I will upload them if I can find.
+
+NOTE-2: You might need to change the main function's return type to int with respect to your local environment needs. (gcc or clang versions) 
 
