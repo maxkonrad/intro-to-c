@@ -37,7 +37,7 @@ int main(){
 	printf("\nFound result in %d steps", a);
 	
 }
-
+//very special thanks to thanks u/TraylaParks from r/cprogramming
 void bubble_sort(int arr[], int size){
 	int i, j, temp;
 	for(i = 0; i < size - 1; i++){
