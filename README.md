@@ -32,16 +32,16 @@ These are the projects covered in lab sections. These are my solutions.
 8) Try to combine two strings using a pointer. (See NOTE-1)
 
 ## For further
-* Try to write a program that draws left pyramid using single loop.
-* Try to write a buble sort algorithm.
-* Try to write binary search algorithm.
-* Try to measure code quality using <time.h> function.
+* Try writing a program that draws left pyramid using single loop.
+* Try writing buble sort algorithm.
+* Try writing binary search algorithm.
+* Try measuring time elapsed in the execution process of any code using <time.h> built-in library.
 
 **Important Again**
 Most of the programming is self-learning. Do not be stubborn with yourself, use [Google](https://google.com) if you get stuck.
 
 
-NOTE: I couldn't find lab-7 (encryption and decryption) and lab-8 (pointers) in my computer. I will upload them if I can find.
+**NOTE-1:** I couldn't find lab-7 (encryption and decryption) and lab-8 (pointers) in my computer. I will upload them if I can find.
 
-NOTE-2: You might need to change the main function's return type to int with respect to your local environment needs. (gcc or clang versions) 
+**NOTE-2:** You might need to change the main function's return type to int with respect to your local environment needs. (gcc or clang versions) 
 
