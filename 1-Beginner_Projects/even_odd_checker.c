@@ -16,6 +16,6 @@ int main()
 		printf("\nnumber %d  is odd\n", number);	
 
 	//optimized solution
-	printf("\nnumber %d is %s\n", number, (number & 1 ? "odd" : "even")); //very special thanks to thanks u/thebatmanandrobin from r/cprogramming	
+	printf("\nnumber %d is %s\n", number, (number & 1 ? "odd" : "even")); //very special thanks to u/thebatmanandrobin from r/cprogramming	
 	
 }
