@@ -23,7 +23,7 @@ When doing so, try to not use a header file/library that provides ready-made cod
 These are the projects covered in lab sections. These are my solutions.
 
 1) A program that takes 3 exam scores from the user and prints values such as total score, mean value and letter grade (make sure that the mean value gives float output)
-2) Try to calculate the approximate value of the sine function using the Taylor series (a notation in mathematics) by taking input in radians without using math.h (if your machine is windows and you are using DEV C++, you will have naming problems for the sine function, you can use the name sinfu for this. If you love your computer, don't go further than 15 items in taylor series.
+2) Try to calculate the approximate value of the sine function using the Taylor series (a notation in mathematics) by taking input in radians without using math.h (if your machine is windows and you are using DEV C++, you will have naming problems for the sine function, you can use the name sinfu for this. If you love your computer, don't go further than 15 items in taylor series.)
 3) Write a program that calculates the y value of a polynomial for any x value
 4) Write 5 random room temperatures (float), print these room temperatures in order, then print the lowest value, then print the lowest value out of it, then print the worst value out of it, then print the array in reverse order with the worst value removed
 5) Draw a hollow square with a for loop
@@ -38,7 +38,7 @@ These are the projects covered in lab sections. These are my solutions.
 * Try to measure code quality using <time.h> function.
 
 **Important Again**
-Most of the programming is self-learning. Do not be stubborn to yourself, use [Google](https://google.com) if you get stuck.
+Most of the programming is self-learning. Do not be stubborn with yourself, use [Google](https://google.com) if you get stuck.
 
 
 NOTE: I couldn't find lab-7 (encryption and decryption) and lab-8 (pointers) in my computer. I will upload them if I can find.
