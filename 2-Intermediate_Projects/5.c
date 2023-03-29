@@ -4,7 +4,7 @@ void square_draw(int n);
 void square_draw_2(int n);
 int check_valid(int n);
 
-main(){
+int main(){
 	int n;
 	printf("Enter a number between 3 and 20: ");
 	scanf(" %d", &n);
@@ -14,10 +14,10 @@ main(){
 		printf("\n\n second function: \n");
 		square_draw_2(n);
 	}
-	else return;
+	else return 0;
 }
 
-int check_valid(n){
+int check_valid(int n){
 	if(n <= 20 && n >= 3) return 1;
 	else {
 		printf("\n\nINVALID INTERVAL TERMINATING PROGRAM");
@@ -25,7 +25,7 @@ int check_valid(n){
 	}
 }
 
-void square_draw(n){
+void square_draw(int n){
 	int i, j;
 	for(i = 1; i <= n; i++){
 		if(i == 1 || i == n){
@@ -45,7 +45,7 @@ void square_draw(n){
 	}
 }
 
-void square_draw_2(n){
+void square_draw_2(int n){
 	int i, j;
 	for(i = 1; i <= n; i++){
 		for(j = 1; j <= n; j++){

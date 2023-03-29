@@ -19,7 +19,7 @@ int main(){
 	printf("\n\nPlease insert the value to be used in factorial function [integer n]");
 	printf("\ninsert n: ");
 	scanf(" %d", &fact_n);
-	printf("\nFactorial function returned: %d", factorial(fact_n));
+	printf("\nFactorial function returned: %li", factorial(fact_n));
 	
 	printf("\n\nPlease insert the value to be used in sin function in radians [float rad]");
 	printf("\ninsert rad: ");
@@ -38,7 +38,7 @@ float power(float a, int n){
 	return a;
 }
 
-long int factorial(n){
+long int factorial(int n){
 	long int result = 1;
 	for(n; n > 1; n--){
 		result *= n;

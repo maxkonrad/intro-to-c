@@ -12,7 +12,7 @@ int check_win(int map[], int is_game_over);
 void x_win(void);
 void o_win(void);
 
-main(){
+int main(){
 	int i = 1;
 	int map[] = 
 	{
@@ -25,7 +25,7 @@ main(){
 		printf("\n2-Exit");
 		printf("\nSelect: ");
 		scanf(" %d", &i);
-		if(i == 2) return;
+		if(i == 2) return 0;
 		game(map);
 		
 	}

@@ -2,7 +2,7 @@
 
 float power(float a, int x);
 
-main(){
+int main(){
 	int deg, i;
 	float result, x;
 	
@@ -13,7 +13,7 @@ main(){
 	
 	if(deg < 0){
 		printf("\nPlease enter a correct degree.");
-		return;
+		return 0;
 	}
 	
 	for(i = deg; i >= 0; i--){

@@ -3,7 +3,7 @@
 void fibf(int m);
 int fibonacci(int n);
 
-main(){
+int main(){
 	int m;
 	
 	printf("This program prints first 'm' elements of fibonacci series.\n");
