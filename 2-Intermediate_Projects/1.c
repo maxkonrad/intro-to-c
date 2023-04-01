@@ -31,12 +31,13 @@ int main(){
 		printf("\nThe mean value is %f\n", m);
 		//calculate and print the letter value
 		if (m < 50) printf("Grade is D");
-		if (m > 50 && m < 70) printf ("Grade is C");
-		if (m > 70 && m < 90) printf ("Grade is B");
-		if (m > 90) printf("Grade is A");
+		if (m >= 50 && m < 70) printf ("Grade is C");
+		if (m >= 70 && m < 90) printf ("Grade is B");
+		if (m >= 90) printf("Grade is A");
 		} else {
 		//terminate the program in case value is not in between the accepted range
 		printf("Exam scores must be between 0-100");
+		}
 	}
 	
 	return 0;
