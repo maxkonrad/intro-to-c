@@ -38,7 +38,5 @@ int main(){
 		//terminate the program in case value is not in between the accepted range
 		printf("Exam scores must be between 0-100");
 		}
+		return 0;
 	}
-	
-	return 0;
-}
