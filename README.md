@@ -38,7 +38,7 @@ These are the tasks covered in lectures.
 * Try measuring time elapsed in the execution process of any code using <time.h> built-in library.
 
 **Important Again**
-Most of the programming is self-learning. Do not be stubborn with yourself, use [Google](https://google.com) if you get stuck.
+Use [Google](https://google.com) in need.
 
 
 **NOTE-1:** I couldn't find intermediate-7 (encryption and decryption) and intermediate-8 (pointers) in my computer. I will upload them if I can find.
